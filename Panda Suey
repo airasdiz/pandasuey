@@ -1,0 +1,547 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Mobirise v3.11.1, mobirise.com">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="shortcut icon" href="assets/images/logo.png" type="image/x-icon">
+  <meta name="description" content="">
+  
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic&amp;subset=latin">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,700">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i">
+  <link rel="stylesheet" href="assets/bootstrap-material-design-font/css/material.css">
+  <link rel="stylesheet" href="assets/et-line-font-plugin/style.css">
+  <link rel="stylesheet" href="assets/tether/tether.min.css">
+  <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+  <link rel="stylesheet" href="assets/dropdown/css/style.css">
+  <link rel="stylesheet" href="assets/animate.css/animate.min.css">
+  <link rel="stylesheet" href="assets/socicon/css/styles.css">
+  <link rel="stylesheet" href="assets/theme/css/style.css">
+  <link rel="stylesheet" href="assets/mobirise-gallery/style.css">
+  <link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css" type="text/css">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Josefin+Sans" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Slabo+27px" rel="stylesheet">
+  
+ 
+  
+  
+  
+</head>
+
+
+<body>
+
+<!-- MENÚ EMPIEZA -->
+
+<section id="ext_menu-0">
+
+    <nav class="navbar navbar-dropdown navbar-fixed-top" style="background-color:white;">
+        <div class="container">
+
+            <div class="mbr-table">
+            
+                <div class="mbr-table-cell">
+
+                    <div class="navbar-brand">
+                        
+                        <a href="#" class="navbar-logo"><img src="assets/images/Recurso%202.png" alt="UDEM"></a>
+                        
+                        <a class="navbar-caption" href="#">PANDA SUEY</a>
+                        
+                    </div>
+
+                </div>
+                
+                <div class="mbr-table-cell">
+
+                    <button class="navbar-toggler pull-xs-right hidden-md-up" type="button" data-toggle="collapse" data-target="#exCollapsingNavbar">
+                    
+                        <div class="hamburger-icon"></div>
+                    </button>
+
+                    <ul class="nav-dropdown collapse pull-xs-right nav navbar-nav navbar-toggleable-sm" id="exCollapsingNavbar">
+                    
+                    	<li class="nav-item"><a class="nav-link link" style="color:#D93E2E" href="#Nosotros">Nosotros</a></li>
+                    	
+                    	<li class="nav-item"><a class="nav-link link" style="color:#D93E2E" href="#platos">Platos</a></li>
+                    	
+                    	<li class="nav-item"><a class="nav-link link" style="color:#D93E2E" href="#Opiniones">Opiniones</a></li>
+                        
+                        <li class="nav-item"><a class="nav-link link" style="color:#D93E2E" href="#Trabaja con nosotros">Trabaja con nosotros</a></li>
+                    	                    	
+                    	<li class="nav-item nav-btn"><a  class="nav-link btn btn- btn-black-outline" href="#Reservas">RESERVAS</a></li>
+                        
+                    </ul>
+                    
+                    <button hidden="" class="navbar-toggler navbar-close" type="button" data-toggle="collapse" data-target="#exCollapsingNavbar">
+                        <div class="close-icon"></div>
+                    </button>
+    
+
+                </div>
+            </div>
+
+        </div>
+    </nav>
+
+</section>
+
+<!-- MENÚ TERMINA -->
+
+
+<!-- BENNER INTRO - EMPIEZA -->
+
+<section class="mbr-section mbr-section-hero mbr-section-full mbr-parallax-background mbr-section-with-arrow mbr-after-navbar" id="header1-1" style="background-image: url(assets/images/Fondo-banner.jpg);">
+
+    
+
+    <div class="mbr-table-cell">
+
+    </div>
+
+    <div class="mbr-arrow mbr-arrow-floating" aria-hidden="true"><a href="#header2-2"><i class="mbr-arrow-icon"></i></a></div>
+
+</section>
+
+<!-- BANNER INTRO - TERMINA -->
+    
+    
+    
+<!-- NOSOTROS - EMPIEZA -->
+
+
+<section class="mbr-section article mbr-section__container" id="Nosotros" style="background-color: #F0EDDF; padding-top: 110px">
+
+    <div class="container">
+    <div class="row">
+            <div class="col-xs-12 lead" style="font-family: 'Roboto', sans-serif; font-style: normal; font-weight: 200; text-align: center; color:#4EAA37" > <h3 class="mbr-section-title display-1">NOSOTROS</h3><p>En pleno corazón de Monterrey, abrimos las puertas de Panda Suey, la casa del picante. En nuestro restaurante encontrarás platos de auténtico sabor, con ingredientes de primera calidad y una cuidada elaboración. 
+            Una amplia carta de especialidades, platos recomendados por el chef, y  Huo Guo (olla caliente); un plato tradicional de la gastronomía sichuanesa que tiene merecida fama.</p></div>
+        
+        </div>
+       
+    </div>
+
+</section>
+
+
+<!-- NOSOTROS - TERMINA -->
+    
+
+<!-- PLATOS GALERIA - EMPIEZA -->
+
+<section class="mbr-gallery mbr-section mbr-section-nopadding mbr-slider-carousel" id="platos" data-filter="false" style="background-color: rgb(255, 255, 255); padding-bottom: 0rem;">
+
+    <div class="mbr-gallery-row">
+        <div class=" mbr-gallery-layout-default">
+            <div>
+                <div>
+                
+                	<!-- FOTO THUMBNAIL 1 -->
+
+                    <div class="mbr-gallery-item mbr-gallery-item__mobirise3 mbr-gallery-item--p0" data-tags="awesome" data-video-url="false">
+                        <div href="#lb-gallery1-7" data-slide-to="0" data-toggle="modal">
+                            
+                            
+
+                            <img alt="" src="assets/images/09.jpg">
+                            
+                           
+                            
+                        </div>
+                    </div>
+
+                	<!-- FOTO THUMBNAIL 2 -->
+
+                    <div class="mbr-gallery-item mbr-gallery-item__mobirise3 mbr-gallery-item--p0" data-tags="Responsive" data-video-url="false">
+                        <div href="#lb-gallery1-7" data-slide-to="1" data-toggle="modal">
+                            
+                            
+
+                            <img alt="" src="assets/images/02.jpg">
+                            
+                               
+                            
+                        </div>
+                    </div>
+
+                	<!-- FOTO THUMBNAIL 3 -->
+
+                    <div class="mbr-gallery-item mbr-gallery-item__mobirise3 mbr-gallery-item--p0" data-tags="Creative" data-video-url="false">
+                        <div href="#lb-gallery1-7" data-slide-to="2" data-toggle="modal">
+                            
+                            
+
+                            <img alt="" src="assets/images/03.jpg">
+                            
+                        
+                            
+                        </div>
+                    </div>
+                    
+                	<!-- FOTO THUMBNAIL 4 -->
+
+                    <div class="mbr-gallery-item mbr-gallery-item__mobirise3 mbr-gallery-item--p0" data-tags="Animated" data-video-url="false">
+                        <div href="#lb-gallery1-7" data-slide-to="3" data-toggle="modal">
+                            
+                            
+
+                            <img alt="" src="assets/images/04.jpg">
+                            
+                        
+                            
+                        </div>
+                    </div>
+                    
+                	<!-- FOTO THUMBNAIL 5 -->
+
+                    <div class="mbr-gallery-item mbr-gallery-item__mobirise3 mbr-gallery-item--p0" data-tags="Awesome" data-video-url="false">
+                        <div href="#lb-gallery1-7" data-slide-to="4" data-toggle="modal">
+                            
+                            
+
+                            <img alt="" src="assets/images/05.jpg">
+                            
+                    
+                            
+                        </div>
+                    </div>
+                    
+                	<!-- FOTO THUMBNAIL 6 -->
+
+                    <div class="mbr-gallery-item mbr-gallery-item__mobirise3 mbr-gallery-item--p0" data-tags="Beautiful" data-video-url="false">
+                        <div href="#lb-gallery1-7" data-slide-to="5" data-toggle="modal">
+                            
+                            
+
+                            <img alt="" src="assets/images/06.jpg">
+                            
+                        
+                            
+                        </div>
+                    </div>
+                    
+                	<!-- FOTO THUMBNAIL 7 -->
+
+                    <div class="mbr-gallery-item mbr-gallery-item__mobirise3 mbr-gallery-item--p0" data-tags="Responsive" data-video-url="false">
+                        <div href="#lb-gallery1-7" data-slide-to="6" data-toggle="modal">
+                            
+                            
+
+                            <img alt="" src="assets/images/07.jpg">
+                            
+                        
+                        </div>
+                    </div>
+                    
+                	<!-- FOTO THUMBNAIL 8 -->
+
+                    <div class="mbr-gallery-item mbr-gallery-item__mobirise3 mbr-gallery-item--p0" data-tags="Animated" data-video-url="false">
+                        <div href="#lb-gallery1-7" data-slide-to="7" data-toggle="modal">
+                            
+                            
+
+                            <img alt="" src="assets/images/08.jpg">
+                            
+                            
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+
+
+<!-- PLATOS GALERIA - TERMINA -->
+
+
+<!-- OPINIONES - EMPIEZA -->
+
+<section class="mbr-section" id="Opiniones" style="background-color:#DDAB80; padding-top: 120px; padding-bottom: 120px;">
+    
+    
+    <div class="col-xs-12 lead" style="font-family: 'Roboto', sans-serif; font-style: normal; font-weight: 100; text-align: center; color:white" > <h3 class="mbr-section-title display-1">OPINIONES</h3> </div>
+
+    <div class="mbr-testimonials mbr-section mbr-section-nopadding">
+        <div class="container">
+            <div class="row">
+
+                <div class="col-xs-12 col-lg-4">
+
+                    <div class="mbr-testimonial card mbr-testimonial-lg">
+                        <div class="card-block" style="font-family: 'Monserrat', sans-serif; font-style: normal; font-weight: 100"><p>“En cuanto probe la comida, es dificil expresar todas las sensaciones que vivi en aquel lugar. Todo, absolutamente todo lo que probé me emocionó. ”</p></div>
+                        <div class="mbr-author card-footer">
+                            <div class="mbr-author-img"><img src="assets/images/cara1.jpg" class="img-circle"></div>
+                            <div class="mbr-author-name" style="font-family: 'Roboto', sans-serif; font-style: normal; font-weight:100; color:white">Jaime García</div>
+                         
+                        </div>
+                    </div>
+                </div><div class="col-xs-12 col-lg-4">
+
+                    <div class="mbr-testimonial card mbr-testimonial-lg">
+                        <div class="card-block" style="font-family: 'Monserrat', sans-serif; font-style: normal; font-weight: 100"><p>“Los platos tradicionales son excelentes y las innovaciones o platos con materia prima de temporada también. Buen servicio y ambientación. ”</p></div>
+                        <div class="mbr-author card-footer">
+                            <div class="mbr-author-img"><img src="assets/images/Cara2.jpg" class="img-circle"></div>
+                            <div class="mbr-author-name" style="font-family: 'Roboto', sans-serif; font-style: normal; font-weight: 100; color:white">Amelie Tournier</div>
+                        
+                        </div>
+                    </div>
+                </div><div class="col-xs-12 col-lg-4">
+
+                    <div class="mbr-testimonial card mbr-testimonial-lg">
+                        <div class="card-block" style="font-family: 'Monserrat', sans-serif; font-style: normal; font-weight: 100"><p>“Es imposible resistirse al kimuchi, a la tempura de langostino tigre, los niguiris de huevo de codorniz, de pez mantequilla y de salmon flambeado. ”</p></div>
+                        <div class="mbr-author card-footer">
+                            <div class="mbr-author-img"><img src="assets/images/cara3.jpg" class="img-circle"></div>
+                            <div class="mbr-author-name" style="font-family: 'Roboto', sans-serif; font-style: normal; font-weight: 100; color:white">Eduardo Galán</div>
+                        
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+
+
+<!-- OPINIONES - TERMINA -->
+    
+    
+<!-- UBER - EMPIEZA -->
+
+<section class="mbr-info mbr-info-extra mbr-section mbr-section-md-padding" id="msg-box1-j" style="background-color:#f9f9f9; padding-top: 150px; padding-bottom: 150px;">
+
+    
+    <div class="container">
+        <div class="row">
+
+
+            
+
+
+            <div class="mbr-table-md-up">
+                <div class="mbr-table-cell mbr-right-padding-md-up col-md-8 text-xs-center text-md-left">
+                    <h2 class="mbr-info-subtitle mbr-section-subtitle" style="color:#4EAA37; font-family: 'Monserrat', sans-serif; font-style: normal;">Disfruta de nuestra comida en casa.</h2>
+                    <h3 class="mbr-info-title mbr-section-title display-2" style="color: #4EAA37">Uber Eats</h3>
+                </div>
+
+                <div class="mbr-table-cell col-md-4">
+                    <div class="text-xs-center"><a style=" background-color:#4EAA37; border-color:#4EAA37" class="btn btn-primary" href="https://www.ubereats.com" style="color:#4EAA37">PEDIR</a></div>
+                    
+                </div>
+            </div>
+
+
+        </div>
+    </div>
+</section>
+
+<!-- UBER - TERMINA -->
+
+
+
+<!-- TRABAJA CON NOSOTROS - EMPIEZA -->
+
+
+<section class="mbr-section" id="Trabaja con nosotros" style="background-color: rgb(255, 255, 255); padding-top: 0px; padding-bottom: 0px;">
+
+    
+    <div class="container">
+        <div class="row">
+            <div class="mbr-table-md-up">
+
+              
+
+              <div class="mbr-table-cell col-md-5 text-xs-center text-md-right content-size">
+                  <h3 class="col-xs-12 lead" style="font-family: 'Roboto', sans-serif; font-style: normal; font-weight: 200px; text-align: left; color:black">TRABAJA CON NOSOTROS</h3>
+                 
+                  <div class="lead" style="font-family: 'Roboto', sans-serif; font-style: normal; font-weight: 0; text-align: left">
+                                <p>Estamos buscando personas que compartan nuestra pasión por hacer bien las cosas, trabajar para conseguir los más altos estándares en todo lo que hacemos y quieran formar parte de nuestro equipo.</p>
+                            </div>
+
+                  
+              </div>
+
+
+              
+
+
+              <div class="mbr-table-cell mbr-left-padding-md-up mbr-valign-top col-md-7 image-size" style="border-right-width: medium;">
+                  <div class="mbr-figure"><img src="assets/images/thomas-marban-336946.jpg"></div>
+              </div>
+
+            </div>
+        </div>
+    </div>
+
+</section>
+
+
+<!-- TRABAJA CON NOSOTROS - TERMINA -->
+
+
+
+
+<!-- RESERVA - EMPIEZA -->
+
+
+<section class="mbr-section" id="Reservas" style="background-color: #F0EDDF; padding-top: 100px; padding-bottom: 20px;">
+    
+    <div class="mbr-section mbr-section__container mbr-section__container--middle">
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-12 text-xs-center">
+                    <h3 class="mbr-section-title display-2" style="font-family: 'Roboto', sans-serif; font-style: normal; font-weight: 100; text-align: center; color:black">RESERVA</h3>
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="mbr-section mbr-section-nopadding">
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-12 col-lg-10 col-lg-offset-1" data-form-type="formoid">
+
+
+                    <div data-form-alert="true">
+                        <div hidden="" data-form-alert-success="true" class="alert alert-form alert-success text-xs-center">Thanks for filling out form!</div>
+                    </div>
+
+
+                    <form action="#/" method="post" data-form-title="CONTACT FORM">
+
+                        <input type="hidden" value="elsYhg5ExEkLf9+yzDbF5qi+NPWjsdci4tljFojF3D07MgO3u3YDKI8SUpNxhJy9hxssDrsh8ed+eVYctvoJI+m2U+GaVNIn1XRwOU7UAniYX92vC2u1pRyKyhNhM3PU" data-form-email="true">
+
+                        <div class="row row-sm-offset">
+
+                            <div class="col-xs-12 col-md-4">
+                                <div class="form-group">
+                                    <label class="form-control-label" for="form1-s-name">Nombre<span class="form-asterisk">*</span></label>
+                                    <input type="text" class="form-control" name="name" required="" data-form-field="Name" id="form1-s-name">
+                                </div>
+                            </div>
+
+                            <div class="col-xs-12 col-md-4">
+                                <div class="form-group">
+                                    <label class="form-control-label" for="form1-s-email">Hora<span class="form-asterisk">*</span></label>
+                                    <input type="time" class="form-control" name="time" required="" data-form-field="time" id="form1-s-email">
+                                </div>
+                            </div>
+
+                            <div class="col-xs-12 col-md-4">
+                                <div class="form-group">
+                                    <label class="form-control-label" for="form1-s-phone">Teléfono</label>
+                                    <input type="tel" class="form-control" name="phone" data-form-field="Phone" id="form1-s-phone">
+                                </div>
+                            </div>
+
+                        </div>
+
+    
+
+                        <div><button type="submit" style=" background-color:#F0CACB; color: white; border-color:#F0CACB" class="btn btn-primary">ENVIAR</button></div>
+
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- RESERVA - TERMINA -->
+    
+    
+<!-- MAPA - EMPIEZA -->
+
+
+<section class="mbr-section mbr-section__container" id="map2-i" style="background-color:#F0EDDF; padding-top: 0px; padding-bottom: 0px;">
+<section class="mbr-section mbr-section__container" id="map2-i" style="background-color:#F0EDDF; padding-top: 0px; padding-bottom: 50px;">
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12">
+                <div class="mbr-map"><iframe frameborder="0" style="border:0" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14385.849316404327!2d-100.3865081!3d25.6559646!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xfa9fca4216cfc6a!2sLe%C3%B3n+Chino!5e0!3m2!1ses!2smx!4v1505620214842" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe></div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- MAPA - TERMINA -->
+
+
+
+
+<!-- FOTTER - EMPIEZA -->
+
+
+<section class="mbr-section mbr-section-md-padding mbr-footer footer1" id="contacts1-v" style="background-color: #E5543F; padding-top: 20px; padding-bottom: 20px;">
+    
+    <div class="container">
+        <div class="row">
+            <div class="mbr-footer-content col-xs-12 col-md-3">
+                <div><img src="assets/images/Recurso%207.png" style="padding-top: 10px"></div>
+            </div>
+            <div class="mbr-footer-content col-xs-12 col-md-3" style="color: aqua">
+                <p><strong></strong><br>
+Panda Suey
+Del Valle, 66220 San Pedro Garza García, N.L.</p>
+            </div>
+            <div class="mbr-footer-content col-xs-12 col-md-3">
+                <p><strong></strong><br>
+Email: hola@pandasuey.com<br>
+Phone: +52 (812) 680 0452<br>
+</p>
+            </div>
+
+        </div>
+    </div>
+</section>
+
+<!-- FOTTER - EMPIEZA -->
+
+
+<!-- DERECHOS RESERVADOS - EMPIEZA -->
+
+
+<footer class="mbr-small-footer mbr-section mbr-section-nopadding" id="footer1-w" style="background-color:white; padding-top: 1rem; padding-bottom: 1rem; color:#E5543F">
+    
+    <div class="container">
+        <p class="text-xs-center">DESIGN AND CODE HANDMADE WITH LOVE</p>
+    </div>
+</footer>
+
+<!-- DERECHOS RESERVADOS - TERMINA -->
+
+
+
+  <script src="assets/web/assets/jquery/jquery.min.js"></script>
+  <script src="assets/tether/tether.min.js"></script>
+  <script src="assets/bootstrap/js/bootstrap.min.js"></script>
+  <script src="assets/smooth-scroll/SmoothScroll.js"></script>
+  <script src="assets/dropdown/js/script.min.js"></script>
+  <script src="assets/touchSwipe/jquery.touchSwipe.min.js"></script>
+  <script src="assets/viewportChecker/jquery.viewportchecker.js"></script>
+  <script src="assets/jarallax/jarallax.js"></script>
+  <script src="assets/jquery-mb-ytplayer/jquery.mb.YTPlayer.min.js"></script>
+  <script src="assets/bootstrap-carousel-swipe/bootstrap-carousel-swipe.js"></script>
+  <script src="assets/masonry/masonry.pkgd.min.js"></script>
+  <script src="assets/imagesloaded/imagesloaded.pkgd.min.js"></script>
+  <script src="assets/social-likes/social-likes.js"></script>
+  <script src="assets/theme/js/script.js"></script>
+  <script src="assets/mobirise-slider-video/script.js"></script>
+  <script src="assets/mobirise-gallery/player.min.js"></script>
+  <script src="assets/mobirise-gallery/script.js"></script>
+  <script src="assets/formoid/formoid.min.js"></script>
+  
+  
+  <input name="animation" type="hidden">
+  </body>
+</html>
